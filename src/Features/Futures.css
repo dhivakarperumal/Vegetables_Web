@@ -1,0 +1,21 @@
+.box1
+{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 30px 25px;
+    margin-bottom:30px;
+}
+.btns
+{
+    width: 140px;
+    height: 45px;
+    border: solid 2px green;
+    border-radius:50px;
+    font-weight: bolder;
+    color: green;
+}
+.btns:hover
+{
+    background: green;
+    color: white;
+    font-weight: bolder;
+}

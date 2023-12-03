@@ -1,0 +1,31 @@
+.footers
+{
+    background-color: black;
+    color: white;
+    padding: 60px 0px;
+}
+.foot
+{
+    width: 290px;
+    background: white;
+}
+.foot input
+{
+    border: none;
+    outline: none;
+}
+.foot button
+{
+    padding: 0px 10px;
+    border: none;
+    background: green;
+    width: 107px;
+    height: 40px;
+}
+.footer123 i
+{
+    border: solid 2px white;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 15px;
+}

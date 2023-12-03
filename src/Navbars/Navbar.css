@@ -1,0 +1,78 @@
+.navbars
+{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+   
+}
+#navs123
+{
+    position:sticky;
+    top:0px;
+    width: 100%;
+}
+.logos
+{
+    color:orange !important ;
+    font-weight: bolder !important;
+}
+.links
+{
+    color: black !important;
+    font-weight:bolder !important;
+}
+.header_icons
+{
+    margin-right: 30px;
+}
+.header_icons i
+{
+    padding: 0px 12px;
+}
+.images_carosal img
+{
+    width:100%;
+    height:400px !important;
+}
+.images_carosal1
+{
+    background-image: url(../assert/carousel-2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+}
+
+.images_carosal2
+{
+    background-image: url(../assert/carousel-1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+}
+.images_carosal3
+{
+    background-image: url(../assert/carousel-2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+}
+.slider
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.slider1
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
+
+.silder_header
+{
+    color: black;
+}

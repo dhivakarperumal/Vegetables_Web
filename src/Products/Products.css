@@ -1,0 +1,93 @@
+.products_sections
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.btns123
+{
+    border: solid 2px green;
+    margin: 10px;
+    padding: 6px 10px;
+    background-color: green;
+    color: white;
+    font-weight: bolder;
+}
+.btns12
+{
+    border: solid 2px green;
+    margin: 10px;
+    padding: 6px 10px;
+    font-weight: bolder;
+}
+.btns12:hover
+{
+    background-color: green;
+    color: white;
+}
+.boxs
+{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-bottom: 30px;
+}
+.boxs img
+{
+    width: 250px;
+    height: 200px;
+    
+}
+.throws
+{
+    text-decoration: line-through;
+    padding-left: 20px;
+    color: gray;
+    font-weight: bold;
+}
+.rate
+{
+    color: green;
+    font-weight: bold;
+}
+.btnns
+{
+    border: 1px solid green;
+    margin-bottom: 15px;
+    padding: 5px 10px;
+    font-weight: bolder;
+    color: gray;
+}
+.btnns:hover
+{
+    color: green;
+}
+.span_icons
+{
+    color: green;
+    
+}
+.back_ground
+{
+    background-color: green;
+   margin-bottom: 30px;
+}
+.cols12
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 300px;
+    flex-wrap: wrap;
+}
+.btn123456
+{
+    background-color: red;
+    color: white;
+    width: 110px;
+    height: 45px;
+    border-radius: 10px;
+    border: none;
+}
+.para
+{
+    width: 450px;
+}
